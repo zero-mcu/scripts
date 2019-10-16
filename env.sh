@@ -10,7 +10,7 @@ else
 fi
 export ZERO_SDK_PATH=$ZERO_MCU_HOME
 
-export ZERO_3RD_PATH=$ZERO_SDK_PATH/3rd-party
+export ZERO_3RD_PATH=$ZERO_SDK_PATH/3rd
 
 export ZERO_TOOLCHAIN_PATH=$ZERO_SDK_PATH/toolchain
 
